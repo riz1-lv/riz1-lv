@@ -1,4 +1,4 @@
-
+![til](introgif.gif)
 
 <!--
 **riz1-lv/riz1-lv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
