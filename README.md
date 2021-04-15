@@ -17,7 +17,7 @@ Here are some ideas to get you started:
  
 ## 📫 How to reach me
 
-<a href="https://www.linkedin.com/in/rizwan-sheikh-15a65b1bb/">
+<a href="https://www.linkedin.com/in/riz-shkh/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
    
