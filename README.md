@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning TypeScript
 - 👯 I’m looking to collaborate on a new exciting project
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love plants.
 
 
 
