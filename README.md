@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working at LBI software
+
 - 🌱 I’m currently learning TypeScript
 - 👯 I’m looking to collaborate on a new exciting project
 - 😄 Pronouns: he/him
