@@ -1,5 +1,7 @@
-
-
+## Currently Learning
+- local AI application development using Ollama and Gemma 4
+- rag pipelines
+- Force Push and Pray
 
 
  
